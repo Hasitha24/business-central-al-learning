@@ -90,8 +90,8 @@ Some examples of the exercises included in this repository:
 This section will be updated throughout the 60-day challenge.
 
 Week 1 – AL Basics  
-⬜ Day 1  
-⬜ Day 2  
+⬜ Day 1  - complete
+⬜ Day 2  - complete
 ⬜ Day 3  
 ⬜ Day 4  
 ⬜ Day 5  
