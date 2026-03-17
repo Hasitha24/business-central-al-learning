@@ -4,6 +4,15 @@
 
 pageextension 50110 CustomerListExt extends "Customer List"
 {
+    layout{
+        addbefore("Phone No."){
+            field("Customercategory";Rec."custmercat")
+            {
+                ApplicationArea = All;
+                Caption = 'Customer Category';
+            }
+        }
+    }
     trigger OnOpenPage();
     begin
         Message('App published: Hello world');
