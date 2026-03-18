@@ -4,10 +4,19 @@ tableextension 50111 CustTableExtension extends "Customer"
     {
        field(50001; custmercat; Option)
        {
-        OptionMembers = Cash, Standard;
-       // DataClassification = ToBeClassified;
+        OptionMembers = Cash, Standard,VIP;
+      
+
+       trigger OnValidate()
+                begin
+                    if custmercat = custmercat::VIP then
+                    Message('65% discount applicable')
+
+                    else if custmercat =custmercat::Standard then
+                    Message('20% discount applicable')
+                end;
        }
-    }
+    }   
     
     keys
     {

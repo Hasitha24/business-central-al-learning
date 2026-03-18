@@ -7,6 +7,7 @@ pageextension 50112 CustCardExtension extends "Customer Card"
             {
                 ApplicationArea = All;
                 Caption = 'Customer Category';
+
             }
         }
     }
