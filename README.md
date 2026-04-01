@@ -8,7 +8,7 @@ My background includes:
 
 - 1 year experience as a Project Manager in Microsoft Dynamics 365 Business Central projects
 - 1 year experience as a Business Central Functional Consultant (current role)
-- 3 months of training and hands-on practice in AL development
+- 6 months of training and hands-on practice in AL development
 
 Through my experience in ERP implementations, I developed a strong interest in the technical side of Business Central, especially extension development using AL.
 
@@ -93,7 +93,7 @@ Week 1 – AL Basics
 ⬜ Day 1  - complete
 ⬜ Day 2  - complete
 ⬜ Day 3  - complete
-⬜ Day 4  
+⬜ Day 4  - complete
 ⬜ Day 5  
 
 Week 2 – Sales Customization  

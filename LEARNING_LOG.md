@@ -25,5 +25,12 @@
   **Key Learning:**
 - Importance of table-level validation over UI-level validation
 
+### Day 04
+-Created a new Enum field called "Customer Type" using Enum extension.
+-Added that Enum field to customer card using table extension "CustomerFieldTableExt".
+
+ **Key Learning:**
+ -How to create Enum field and the way how to retrieve and apply it in table extension.
+
 
 
