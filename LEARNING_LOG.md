@@ -32,5 +32,9 @@
  **Key Learning:**
  -How to create Enum field and the way how to retrieve and apply it in table extension.
 
-
+### Day 05
+-Created a page extension for Customer Details Fact Box as I needed to add a custom field which I've created (Customer Category field)
+-Added the custom field to the factbox Customer Details of the customer card.
+ **Key Learning:**
+ -How to display a field in a factbox and the way how to add your own field to factbox area
 
