@@ -35,6 +35,13 @@
 ### Day 05
 -Created a page extension for Customer Details Fact Box as I needed to add a custom field which I've created (Customer Category field)
 -Added the custom field to the factbox Customer Details of the customer card.
+
  **Key Learning:**
  -How to display a field in a factbox and the way how to add your own field to factbox area
+
+ ### Day 06
+-Added a new Customer summary list page with Customer No, Name, Balace, Customer Category and Customer Type
+
+ **Key Learning:**
+-How to create a new  page and fetch data
 
