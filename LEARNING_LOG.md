@@ -45,3 +45,8 @@
  **Key Learning:**
 -How to create a new  page and fetch data
 
+ ### Day 07
+-Added a new field- Sales Order Priority to Sales Order
+
+ **Key Learning:**
+-How to add add a custom field to Sales Header

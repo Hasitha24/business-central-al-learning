@@ -95,6 +95,9 @@ Week 1 – AL Basics
 ⬜ Day 3  - complete
 ⬜ Day 4  - complete
 ⬜ Day 5  - complete
+⬜ Day 6  - complete
+⬜ Day 7  - complete
+
 
 Week 2 – Sales Customization  
 ⬜ Day 6  
