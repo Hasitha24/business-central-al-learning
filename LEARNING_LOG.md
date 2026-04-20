@@ -50,3 +50,15 @@
 
  **Key Learning:**
 -How to add add a custom field to Sales Header
+
+ ### Day 08
+-Added validation- Added validation to Sales Order.If Priority = Urgent,Show warning message.
+
+ **Key Learning:**
+-How to add add a warning message by validating the field.
+
+### Day 09
+-Create Event Subscriber- Create Event Subscriber for Sales Order.Displayed a message when sell-to customer no. is entered
+ **Key Learning:**
+-How does the event listener works.
+
