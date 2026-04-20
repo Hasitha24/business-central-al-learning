@@ -102,7 +102,7 @@ Week 1 – AL Basics
 Week 2 – Sales Customization  
 ⬜ Day 8  - complete
 ⬜ Day 9  - complete
-⬜ Day 10  - complete
+⬜ Day 10  - 
 
 (Progress will be updated daily)
 
