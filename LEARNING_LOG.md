@@ -62,3 +62,10 @@
  **Key Learning:**
 -How does the event listener works.
 
+### Day 10
+-Create Event Subscriber- Create Event Subscriber for Customer List Page.Displayed a warning message when the selected customer's credit limit is higher than the credit balace
+ **Key Learning:**
+-Triggers and eventlisteners cannot be added at the same time.
+-Same codeunit could be used only at related situations, otherwise have to use a different code unit.
+-It's always good to add an eventlistener using a codeunit rather than directly adding it using a page extension.
+
